@@ -1,0 +1,2 @@
+rootProject.name = "odp-spark"
+
